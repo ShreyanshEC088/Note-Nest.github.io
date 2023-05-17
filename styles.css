@@ -1,0 +1,98 @@
+.carousel-item{
+    height:573px;
+    width:100%;
+}
+.contain
+{
+    background-color: rgb(244, 231, 234);
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background-color: #eecc5094!important;
+} 
+.navbar-brand
+{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    margin-right:30px;
+}
+h1{
+    font-family: 'Merriweather', serif;
+}
+.nav-item{
+    font-size:20px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.contain-1{
+    padding-left:30px;
+    padding-right:30px;
+}
+.gridd{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right:30px;
+    margin-left:30px;
+    border-radius: 10px;
+    padding-bottom:30px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color: #eecc5094;
+}
+.row
+{
+    margin-bottom:20px;
+}
+#minMarks{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right:30px;
+    margin-left:30px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-bottom:30px;
+    border-radius: 10px;
+    background-color: #eecc5094;
+}
+.calculate{
+    margin-top:30px;
+    padding:10px;
+}
+.cg{
+    margin-top:30px;
+    margin-right:30px;
+    margin-left:30px;
+    padding-bottom:30px;
+    padding-left:30px;
+    padding-right:30px;
+    margin-bottom:30px;
+    border-radius:10px;
+    background-color: #eecc5094;
+}
+#footer{
+    background-color: #eecc5094;
+    text-align: center;
+    margin-right:30px;
+    border-radius:10px;
+    margin-bottom:30px;
+    margin-left:30px;
+    padding:2% 6%;
+}
+.ftt{
+    padding:0px 15px;
+    color:black;
+}
+.pp{
+    margin-top:15px;
+}
+.ttable{
+    border:2px solid rgba(31, 29, 29, 0.384);
+    border-radius: 10px;
+    background-color:#eecefd2e ;
+}
+/* #cda5fa73   #85b5fc81*/
+/* #CB8AFF */
